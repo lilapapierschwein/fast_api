@@ -1,0 +1,8 @@
+# DevEnvironment
+venv/
+.env
+__pycache__/
+
+# Logs
+*.log
+
